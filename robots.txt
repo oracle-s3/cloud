@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://oracle-s3.github.io/cloud/sitemap.xml
